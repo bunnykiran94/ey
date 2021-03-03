@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_snc_ey.com.glide.apps.include_my_deletes</name>
+        <read_roles/>
+        <suffix>com.glide.apps.include_my_deletes</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>bhanukiran.gokarla@snc</sys_created_by>
+        <sys_created_on>2021-02-19 06:39:29</sys_created_on>
+        <sys_id>a7d88e6f1b56ec10a79275561a4bcb28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ey.com.glide.apps.include_my_deletes</sys_name>
+        <sys_package display_value="ey" source="x_snc_ey">ec12c6e31b56ec10a79275561a4bcbde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ey">ec12c6e31b56ec10a79275561a4bcbde</sys_scope>
+        <sys_update_name>sys_properties_a7d88e6f1b56ec10a79275561a4bcb28</sys_update_name>
+        <sys_updated_by>bhanukiran.gokarla@snc</sys_updated_by>
+        <sys_updated_on>2021-02-19 06:39:29</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=a7d88e6f1b56ec10a79275561a4bcb28"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ey">ec12c6e31b56ec10a79275561a4bcbde</application>
+        <file_path/>
+        <instance_id>87e183f1dba1fbc02f68c59705961933</instance_id>
+        <instance_name>mp3</instance_name>
+        <name>sys_properties_a7d88e6f1b56ec10a79275561a4bcb28</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>false</ignore_cache><is_private>false</is_private><name>x_snc_ey.com.glide.apps.include_my_deletes</name><read_roles/><suffix>com.glide.apps.include_my_deletes</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>bhanukiran.gokarla@snc</sys_created_by><sys_created_on>2021-02-19 06:39:29</sys_created_on><sys_id>a7d88e6f1b56ec10a79275561a4bcb28</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_ey.com.glide.apps.include_my_deletes</sys_name><sys_package display_value="ey" source="x_snc_ey">ec12c6e31b56ec10a79275561a4bcbde</sys_package><sys_policy/><sys_scope display_value="ey">ec12c6e31b56ec10a79275561a4bcbde</sys_scope><sys_update_name>sys_properties_a7d88e6f1b56ec10a79275561a4bcb28</sys_update_name><sys_updated_by>bhanukiran.gokarla@snc</sys_updated_by><sys_updated_on>2021-02-19 06:39:29</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=a7d88e6f1b56ec10a79275561a4bcb28"/></record_update>]]></payload>
+        <payload_hash>785817073</payload_hash>
+        <record_name>x_snc_ey.com.glide.apps.include_my_deletes</record_name>
+        <reverted_from/>
+        <source>a012c6e31b56ec10a79275561a4bcbe1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bhanukiran.gokarla@snc</sys_created_by>
+        <sys_created_on>2021-02-19 06:39:32</sys_created_on>
+        <sys_id>0f094e6f1b56ec10a79275561a4bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177b903d7b30000001</sys_recorded_at>
+        <sys_updated_by>bhanukiran.gokarla@snc</sys_updated_by>
+        <sys_updated_on>2021-02-19 06:39:32</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>8f094e6fc756ec10afc3dd2b600615cb</update_guid>
+        <update_guid_history>8f094e6fc756ec10afc3dd2b600615cb:785817073</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bhanukiran.gokarla@snc</sys_created_by>
+        <sys_created_on>2021-02-19 06:39:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>c0d064e97d484282953c67dc60563c51</sys_id>
+        <sys_metadata>a7d88e6f1b56ec10a79275561a4bcb28</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ey.com.glide.apps.include_my_deletes</sys_name>
+        <sys_package display_value="ey" source="x_snc_ey">ec12c6e31b56ec10a79275561a4bcbde</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ey">ec12c6e31b56ec10a79275561a4bcbde</sys_scope>
+        <sys_scope_delete display_value="">1c8285f4e779417493745101969dd490</sys_scope_delete>
+        <sys_update_name>sys_properties_a7d88e6f1b56ec10a79275561a4bcb28</sys_update_name>
+        <sys_update_version display_value="sys_properties_a7d88e6f1b56ec10a79275561a4bcb28">0f094e6f1b56ec10a79275561a4bcbcc</sys_update_version>
+        <sys_updated_by>bhanukiran.gokarla@snc</sys_updated_by>
+        <sys_updated_on>2021-02-19 06:39:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
